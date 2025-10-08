@@ -33,22 +33,6 @@ It combines Python, SQL, Excel, and Power BI to explore sales trends, top produc
 - `dashboard.pbix` – Power BI dashboard file  
 - `results/` – Charts and screenshots  
 - `requirements.txt` – Python libraries used
-
-- ## 📊 Results / Visualizations
-Here are some key insights from the analysis:
-
-- **Sales by Region:** Shows which region contributes most to sales.  
-  ![Sales by Region](results/sales_by_region.png)
-
-- **Profit Trend by Category:** Displays profit trends over time for each product category.  
-  ![Profit Trend](results/profit_trend.png)
-
-- **Top Products:** Highlights the best-selling products in terms of revenue.  
-  ![Top Products](results/top_products.png)
-
-- **Power BI Dashboard:** Interactive dashboard for exploring regional and category-based sales trends. The dashboard file is included in the repository as `dashboard.pbix`.
-
-
 ## 🙌 Author
 **Vakiti Sravanthi**  
 Data Analytics Enthusiast | Python | SQL | Power BI | Excel
