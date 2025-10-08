@@ -33,6 +33,8 @@ It combines Python, SQL, Excel, and Power BI to explore sales trends, top produc
 - `dashboard.pbix` – Power BI dashboard file  
 - `results/` – Charts and screenshots  
 - `requirements.txt` – Python libraries used
+
+Google colab link: https://colab.research.google.com/drive/1tynBtO8G2VQG-67z3PBkAf8bLNO3q-3d?usp=sharing
 ## 🙌 Author
 **Vakiti Sravanthi**  
 Data Analytics Enthusiast | Python | SQL | Power BI | Excel
