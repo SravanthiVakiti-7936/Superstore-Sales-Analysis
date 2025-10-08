@@ -35,6 +35,8 @@ It combines Python, SQL, Excel, and Power BI to explore sales trends, top produc
 - `requirements.txt` – Python libraries used
 
 Google colab link: https://colab.research.google.com/drive/1tynBtO8G2VQG-67z3PBkAf8bLNO3q-3d?usp=sharing
+Linkedin:https://www.linkedin.com/in/vakiti-sravanthi997/
+Github: https://github.com/SravanthiVakiti-7936
 ## 🙌 Author
 **Vakiti Sravanthi**  
 Data Analytics Enthusiast | Python | SQL | Power BI | Excel
